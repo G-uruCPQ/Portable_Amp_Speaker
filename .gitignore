@@ -1,1 +1,10 @@
+# circuit
+garver
+
+#KiCad
+*-backups
+*.kicad_prl
+fp-info-cache
+
+# Inventor
 OldVersions
